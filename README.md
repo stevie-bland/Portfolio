@@ -18,3 +18,6 @@
 * Item 3
 * Item 4
 
+
+http://github.com - automatic!
+[GitHub](http://github.com
