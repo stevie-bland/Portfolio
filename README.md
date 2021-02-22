@@ -25,5 +25,3 @@
 * Item 4
 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
