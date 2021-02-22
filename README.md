@@ -9,7 +9,7 @@
 
 
 
-### ** Project 1 **
+### __Project 1__
 
 * Item 1 
 * Item 2
