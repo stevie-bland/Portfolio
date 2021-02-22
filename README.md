@@ -17,7 +17,7 @@
 * Item 4
 
 
-### Project 2 
+### _Project 2_
 
 * Item 1 
 * Item 2 
